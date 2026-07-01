@@ -81,3 +81,4 @@ Se gatilla con cada push a main y ejecuta:
 - CloudWatch Logs y Metrics
 - Autoscaling Target Tracking CPU 50%
 # deploy demo
+# deploy demo
